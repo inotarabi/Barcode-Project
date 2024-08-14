@@ -14,6 +14,9 @@ module.exports = {
                 slate900: "hsl(218, 44%, 22%)",
                 customBlue: "hsl(228, 45%, 44%)",
             },
+            fontFamily: {
+                font1: ["Outfit"],
+            },
         },
     },
     plugins: [],
